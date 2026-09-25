@@ -4,7 +4,7 @@
 
 LegalLens AI is a simple AI-powered legal document assistant built with **Next.js, FastAPI, and Gemini API**. It helps users understand uploaded legal documents in simple language and compare two documents to identify important changes.
 
-🔗 **Live Demo Here:** `https://legallens-ai-sandy.vercel.app/`
+🔗 **[Live Demo Here](https://legallens-ai-sandy.vercel.app/)**
 
 > **Disclaimer:** LegalLens AI provides informational assistance only and does not replace professional legal advice.
 
