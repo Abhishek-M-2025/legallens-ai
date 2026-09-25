@@ -1,6 +1,12 @@
-# LegalLens AI
+# ⚖️ LegalLens AI
 
 **GenAI-Powered Legal Document Assistant for Everyday Understanding & Access**
+
+LegalLens AI is a simple AI-powered legal document assistant built with **Next.js, FastAPI, and Gemini API**. It helps users understand uploaded legal documents in simple language and compare two documents to identify important changes.
+
+🔗 **Live Demo Here:** `https://legallens-ai-sandy.vercel.app/`
+
+> **Disclaimer:** LegalLens AI provides informational assistance only and does not replace professional legal advice.
 
 LegalLens AI is a simple AI-powered legal document assistant built with **Next.js, FastAPI, and Gemini API**. It helps users understand uploaded legal documents in simple language and compare two documents to identify important changes.
 
